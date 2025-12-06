@@ -1,12 +1,25 @@
 # The Air Guitar
 
-## Video Demo
+## Intro: What is an Air Guitar
+
+[Video Demo]
+
+### Why Air Guitar? 
+
+## Design
+
+### Software & Algorithm
+
+### Hardware Deign
+
+### Acrylic Case
 
 ## Images
 
-## SRS Validation
+## Validation
+### SRS Validation
 
-## HRS Validation
+### HRS Validation
 
 ## Conclusion
 1. What did you learn from it?
